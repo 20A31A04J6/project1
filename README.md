@@ -12,6 +12,7 @@ This is a web based application developed for health related based website in in
 **Azure technologies used for Project**
 
 -Static web apps
+
 -Health bot
 
 ## Features and Functionalities 😃
@@ -32,11 +33,15 @@ This is a web based application developed for health related based website in in
 ![Screenshot 2023-07-03 204627](https://github.com/20A31A04J6/project1/assets/113782670/1fdc9fa5-a102-4c41-b3a4-20343cb1138a)
 ### Menu Page -
 ![Screenshot 2023-07-03 205457](https://github.com/20A31A04J6/project1/assets/113782670/27131e5c-a368-462f-b643-5bda5662faa3)
+### Contact Page -
+![Screenshot 2023-07-03 210534](https://github.com/20A31A04J6/project1/assets/113782670/f7a395c3-9ae9-4931-9fba-7b15fcfa2fe1)
+### Health Bot Page -
+![Screenshot 2023-07-03 210707](https://github.com/20A31A04J6/project1/assets/113782670/3942b878-2fa3-4f4e-9712-6b11392c5a94)
 
 ## Tech Stack 💻
 
-- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
+- Azure(Hosting)
 - HTML
 - CSS
 - Bootstrap
-- JavaScriptps://pastebin.com/raw/PaWZGzyK'),true))()
+- JavaScript
